@@ -27,3 +27,11 @@ fi
 # Or add additional variables you want to use in your other custom files e.g.: c2-custom-menu
 # Example:
 #   MY_CUSTOM_VARIABLE=my custom value
+CUSTOM_COUNTRY=US
+CUSTOM_KEYMAP=us
+CUSTOM_KMAP=qwerty
+CUSTOM_LANGUAGE=en
+CUSTOM_LAYOUTCODE=us
+CUSTOM_LOCALE=localectl status
+CUSTOM_TIMEZONE=America/Los_Angeles
+CUSTOM_VARIANT=English
