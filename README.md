@@ -1,4 +1,5 @@
 # install-pxe-server
+## This is a fork of [RPi-PXE-Server](https://github.com/beta-tester/RPi-PXE-Server), but with only x86 images for my lappy86 (Panasonic TOUGHBOOK CF-29)
 setup a Raspberry Pi as a PXE-Server.<br />
 it is a private project i have made for myself.<br />
 i did not keep an eye on network security.
